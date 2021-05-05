@@ -37,7 +37,7 @@ checklength("johndoe12", 8, 10); // true
 *using this function your users gonna have significantly strong password that no hacker would dare to crack.*
 ```
 superCheck("john", 7, 10); // false, password is smaller than 7
-superCheck("johndoeisverygoog", 7, 10); // false, password is greater than 10
+superCheck("johndoeisverygood", 7, 10); // false, password is greater than 10
 superCheck("johndoe", 7, 10); // false, password does not contain a number
 superCheck("johndoe1", 7, 10); // false, password does not contain a symbol
 superCheck("john@doe1", 7, 10); // false, password does not contain an uppercase character
