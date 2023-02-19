@@ -1,6 +1,6 @@
 //This library is created by Ata Shaikh
 //Contact Ata Shaikh - shaikhata666@gmail.com
-//SimplePasswordChecker --version 1.0.1
+//SimplePasswordChecker --version 1.0.2
 
 let numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 let alphabetsLC = "abcdefghijklmnopqrstuvwxyz".split("");
